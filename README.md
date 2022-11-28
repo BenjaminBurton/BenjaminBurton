@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on ... The Cloud Resume Challenge Using Azure
 - 🌱 I’m currently learning ... Cloud Technologies
 - 👯 I’m looking to collaborate on ... Projects to help me grow in my development
-- 🤔 I’m looking for help with ... Employment and Opportunity to marry my significant other of 8 years in the UK 
+- 🤔 I’m looking for help with ... Employment and Immigrate for marriage with my significant other of 8 years in the UK 
 - 💬 Ask me about ... Anything I'll reply
 - 📫 How to reach me: ... Benjaminlburton@gmail.com
 - 😄 Name Spelled: ... La'vell It's french, but I'm not from France 
