@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on ... Projects to help me grow in my development
 - 🤔 I’m looking for help with ... Employment and Immigrate for marriage with my significant other of 8 years in the UK 
 - 💬 Ask me about ... Anything I'll reply
-- 📫 How to reach me: ... Benjaminlburton@gmail.com
+- 📫 How to reach me: ... Social Links Below
 - 😄 Name Spelled: ... La'vell It's french, but I'm not from France 
 - ⚡ Fun fact: ... I'm a survivor
 
