@@ -12,3 +12,7 @@
 - 📫 How to reach me: ... Benjaminlburton@gmail.com
 - 😄 Name Spelled: ... La'vell It's french, but I'm not from France 
 - ⚡ Fun fact: ... I'm a survivor
+
+https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
