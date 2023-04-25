@@ -13,9 +13,6 @@
   <a href="mailto:benjaminlburton@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.instagram.com/mr._burton/">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 </div>
 
 <div align="center">
