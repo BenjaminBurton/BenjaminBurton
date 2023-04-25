@@ -17,7 +17,10 @@
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=BenjaminBurton&style=for-the-badge&color=blue" alt="" />
+</div>
   
 <h1>
   Hey there
