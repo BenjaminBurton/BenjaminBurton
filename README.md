@@ -2,9 +2,8 @@
 **BenjaminBurton/BenjaminBurton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<div id="header" align="center">
-  <img scr="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100" />
-</div>
+
+https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100" 
 <!--
 ### Hi there 👋
 - 🔭 I’m currently working on ... Cloud Technologies i.e. AWS & Azure
