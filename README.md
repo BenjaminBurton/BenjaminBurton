@@ -37,7 +37,8 @@
 - 👯 I’m looking to collaborate on ... Projects to help me grow in my development
 - 🤔 I’m looking for help with ... Employment to feed my family. 
 - 💬 Ask me about ... Anything I'll reply
-- 📫 How to reach me: ... ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white@https://www.linkedin.com/in/benjaminlburton/)
+- 📫 How to reach me: ... <a href="https://www.linkedin.com/in/benjaminlburton/" rel="nofollow"><img src="https://camo.githubusercontent.com/4fbc51de511da6fffc3a9a1f1e14b06b40eaec1d922ac7215d7f2a5ebf9c02cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6b616b6261722d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-benjaminlburton/-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+- ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white@https://www.linkedin.com/in/benjaminlburton/)
 - 😄 Name Spelled: ... La'vell It's french, but I'm not from France lol
 - ⚡ Fun fact: ... I am a self starter / self learner Ambitious, Loyal and, a survivor
 
