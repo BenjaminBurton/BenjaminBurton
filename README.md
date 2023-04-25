@@ -37,7 +37,7 @@
 - 👯 I’m looking to collaborate on ... Projects to help me grow in my development
 - 🤔 I’m looking for help with ... Employment to feed my family. 
 - 💬 Ask me about ... Anything I'll reply
-- 📫 How to reach me: ... https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+- 📫 How to reach me: ... [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white])
 - 😄 Name Spelled: ... La'vell It's french, but I'm not from France lol
 - ⚡ Fun fact: ... I am a self starter / self learner Ambitious, Loyal and, a survivor
 
