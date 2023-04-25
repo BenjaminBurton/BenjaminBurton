@@ -3,6 +3,9 @@
 -->
 
 ### Hi there 👋
+<div id="header" align="center">
+  <img scr="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100" />
+</div>
 
 - 🔭 I’m currently working on ... Cloud Technologies i.e. AWS & Azure
 - 🌱 I’m currently learning ... Cloud Technologies AWS & Azure
