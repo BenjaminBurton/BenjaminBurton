@@ -78,7 +78,7 @@
 - 🔭: I’m currently working on ... Cloud Technologies i.e. AWS & Azure
 - 🌱 I’m currently learning ... Cloud Technologies AWS & Azure
 - 👯 I’m looking to collaborate on ... Projects to help me grow in my development
-- 🤔 I’m looking for help with ... Employment to feed my family. 
+- 🤔 I’m looking for help with ... Employment. 
 - 💬 Ask me about ... Anything I'll reply
 - 📫 How to reach me: ... <a href="https://www.linkedin.com/in/benjaminlburton/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-benjaminlburton/-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 - 😄 Name Spelled: ... La'vell It's french, but I'm not from France lol
