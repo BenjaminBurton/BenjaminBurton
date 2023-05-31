@@ -8,12 +8,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,python,git,linux,powershell,vscode,visualstudio,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,python,git,linux,powershell,vscode,visualstudio,androidstudio&theme=light" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,github,githubactions,html,css,js,nodejs,react,mysql" />
+    <img src="https://skillicons.dev/icons?i=dotnet,github,githubactions,html,css,js,nodejs,react,mysql&theme=light" />
   </a>
 </p>
 
