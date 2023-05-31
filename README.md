@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,apache,docker,nginx,shellscript,python,git,linux,ubuntu,powershell,vscode" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,shellscript,python,git,linux,ubuntu,powershell,vscode" />
   </a>
 </p>
 
