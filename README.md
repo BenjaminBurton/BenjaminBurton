@@ -126,7 +126,7 @@
 </div>
   
 <h1>
-  Hey there I am Lavell Burton
+  Hey there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -137,7 +137,7 @@
 ---
 
 ### :man_technologist: About Me :
-
+- 💬: My name is Lavell Burton
 - 🔭: I’m currently working on ... Cloud Technologies i.e. AWS & Azure
 - 🌱 I’m currently learning ... Cloud Technologies AWS & Azure
 - 👯 I’m looking to collaborate on ... Projects to help me grow in my development
