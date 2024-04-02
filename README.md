@@ -19,7 +19,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | ----------------------------------------------- | ----------------------------------------------------- |
 | Active Directory Configuration and Troubleshooting |         <a href="https://google.com">Active Directory Lab</a> |
 | Endpoint Detection && Response | <a href="https://google.com">EndPoint Detection & Response</a> |
-| Splunk Enterprise           | <a href="https://google.com">Splunk                |
+| Splunk Enterprise           | <a href="https://google.com">Splunk SIEM               |
 | Microsoft Sentinel SIEM        | <a href="https://google.com">Sentinel SIEM         |
 | Wireshark                    | <a href="https://google.com">Packet Capture PCAP                  |
 <!-- | Scripting and Automation for Threat Mitigation  | <a href="https://google.com">SOC Automation        | -->
