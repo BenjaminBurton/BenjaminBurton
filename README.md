@@ -18,10 +18,10 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Skill                                           | Associated Project                                    |
 | ----------------------------------------------- | ----------------------------------------------------- |
 | Active Directory Configuration and Troubleshooting |         <a href="https://google.com">Active Directory Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">End Point Detection & Response</a> |
-| Security Automation with Shuffle SOAR           | <a href="https://google.com">Splunk                |
-| Incident Response Planning and Execution        | <a href="https://google.com">Sentinel SIEM         |
-| Case Management with TheHive                    | <a href="https://google.com">Packet Capture PCAP                  |
+| Endpoint Detection && Response | <a href="https://google.com">End Point Detection & Response</a> |
+| Splunk Enterprise           | <a href="https://google.com">Splunk                |
+| Microsoft Sentinel SIEM        | <a href="https://google.com">Sentinel SIEM         |
+| Wireshark                    | <a href="https://google.com">Packet Capture PCAP                  |
 <!-- | Scripting and Automation for Threat Mitigation  | <a href="https://google.com">SOC Automation        | -->
 
 ## Tools
