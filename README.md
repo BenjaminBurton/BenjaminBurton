@@ -18,10 +18,10 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Skill                                           | Associated Project                                    |
 | ----------------------------------------------- | ----------------------------------------------------- |
 | Active Directory Configuration and Troubleshooting |         <a href="https://github.com/BenjaminBurton/Active-Directory-Project/tree/main">Active Directory Lab</a> |
-| Endpoint Detection && Response | <a href="https://google.com">EndPoint Detection & Response</a> |
-| Splunk Enterprise           | <a href="https://google.com">Splunk SIEM               |
-| Microsoft Sentinel SIEM        | <a href="https://google.com">Sentinel SIEM         |
-| Wireshark                    | <a href="https://google.com">Packet Capture PCAP                  |
+| Endpoint Detection && Response | <a href="#">EndPoint Detection & Response</a> |
+| Splunk Enterprise           | <a href="#">Splunk SIEM               |
+| Microsoft Sentinel SIEM        | <a href="#">Sentinel SIEM         |
+| Wireshark                    | <a href="#">Packet Capture PCAP                  |
 <!-- | Scripting and Automation for Threat Mitigation  | <a href="https://google.com">SOC Automation        | -->
 
 ## Tools
