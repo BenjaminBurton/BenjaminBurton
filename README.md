@@ -24,6 +24,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Wireshark                    | <a href="#">Packet Capture PCAP                  |
 <!-- | Scripting and Automation for Threat Mitigation  | <a href="https://google.com">SOC Automation        | -->
 
+### LINKS TO PROJECTS WILL BE UPDATED SOON
+
 ## Tools
 
 ### Network
