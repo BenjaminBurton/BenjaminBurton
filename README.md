@@ -17,7 +17,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                           | Associated Project                                    |
 | ----------------------------------------------- | ----------------------------------------------------- |
-| Active Directory Configuration and Troubleshooting |         <a href="https://google.com">Active Directory Lab</a> |
+| Active Directory Configuration and Troubleshooting |         <a href="https://github.com/BenjaminBurton/Active-Directory-Project/tree/main">Active Directory Lab</a> |
 | Endpoint Detection && Response | <a href="https://google.com">EndPoint Detection & Response</a> |
 | Splunk Enterprise           | <a href="https://google.com">Splunk SIEM               |
 | Microsoft Sentinel SIEM        | <a href="https://google.com">Sentinel SIEM         |
