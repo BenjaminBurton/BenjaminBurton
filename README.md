@@ -24,7 +24,7 @@ My journey in IT has led me to develop a passion for Cloud Security, and I am no
 | Wireshark                    | <a href="#">Packet Capture PCAP                  |
 <!-- | Scripting and Automation for Threat Mitigation  | <a href="https://google.com">SOC Automation        | -->
 
-### LINKS TO PROJECTS WILL BE UPDATED SOON
+### LINKS TO WIRESHARK PROJECT WILL BE UPDATED SOON
 
 ## Tools
 
