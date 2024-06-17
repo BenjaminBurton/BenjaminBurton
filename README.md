@@ -10,7 +10,7 @@ I am a Self Taught IT Guy focused on solving complex problems, with a profound i
 ## Objective
 
 
-My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in IT has led me to develop a passion for Cloud Security, and I am now eager to transition into this field, specifically aiming to join a Cloud Engineering team as a Cloud Administrator
 
 ## Skills
 
