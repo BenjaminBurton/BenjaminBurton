@@ -10,7 +10,7 @@ Self Taught IT Guy focused on Troubleshooting complex problems, with a profound 
 ## Objective
 
 
-My journey in IT has led me to develop a passion for Cloud Security, and I am now eager to transition into this field, specifically aiming to join a Cloud Engineering team as a Cloud Administrator
+My journey in IT has led me to develop a passion for Cloud Security, and I am now eager to transition into this field, specifically aiming to join a Cloud Engineering team as a Cloud DevOps Engineer
 
 ## Skills
 
