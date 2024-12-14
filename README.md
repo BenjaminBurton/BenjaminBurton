@@ -5,12 +5,12 @@
 
 <a href="https://www.linkedin.com/in/benjaminlburton/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Self Taught IT Guy focused on Troubleshooting complex problems, with a profound interest in Cloud Infrastructure.
+Self Taught IT Guy focused on Troubleshooting complex problems, with a profound interest in Cloud and Software Development.
 
 ## Objective
 
 
-My journey in IT has led me to develop a passion for Cloud Security, and I am now eager to transition into this field, specifically aiming to join a Cloud Engineering team as a Cloud DevOps Engineer
+My journey in IT has led me to develop a passion for Cloud and Software Development, and I am now eager to transition into this field, specifically aiming to join a Cloud or Software Engineering team as a Cloud DevOps or Software Engineer
 
 ## Skills
 
