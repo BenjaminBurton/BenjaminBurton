@@ -10,7 +10,7 @@ Self Taught IT Guy focused on Troubleshooting complex problems, with a profound 
 ## Objective
 
 
-My journey in IT has led me to develop a passion for Cloud and Software Development, and I am now eager to transition into this field, specifically aiming to join a Cloud or Software Engineering team as a Cloud DevOps or Software Engineer
+My journey in IT has led me to develop a passion for Cloud and Software Development, and I am now eager to transition into this field, specifically aiming to join a Cloud or Software Engineering team as a Cloud Support Engineer, Cloud DevOps Engineer or Software Engineer.
 
 ## Skills
 
