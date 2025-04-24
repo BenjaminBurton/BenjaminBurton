@@ -90,5 +90,6 @@ My journey in IT has led me to develop a passion for Cloud and Software Developm
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=BenjaminBurton&style=for-the-badge&color=blue" alt="Visitor Count" />
 </div>
-
+<div>
 ![Alt](https://repobeats.axiom.co/api/embed/d7517add03fe5022a562fe9f92b98848d0c27679.svg "Repobeats analytics image")
+</div>
