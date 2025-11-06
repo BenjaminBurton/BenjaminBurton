@@ -1,71 +1,61 @@
 <h1>
-  Hello, I'm LAVELL BURTON
+LAVELL BURTON
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <a href="https://www.linkedin.com/in/benjaminlburton/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Self Taught IT Guy focused on Troubleshooting complex problems, with a profound interest in Cloud and Software Development.
+I'm a self-taught Cloud DevOps Engineer building a homelab and hands-on projects to master Linux, DevContainers, AWS, and Python.
+  
+I share my journey and projects here as I work towards becoming a Cloud DevOps Engineer.
 
-## Objective
+---
 
+# Things I'm working on
 
-My journey in IT has led me to develop a passion for Cloud and Software Development, and I am now eager to transition into this field, specifically aiming to join a Cloud or Software Engineering team as a Cloud Support Engineer, Cloud DevOps Engineer or Software Engineer.
+Homelab 
+My self-hosted home lab for learning DevOps, security, and cloud orchestration. 
 
-## Skills
+Arch Linux Installation with LUKS + TPM
+Secure Arch Linux installation using full disk encryption and TPM for key storage.
 
+DevContainers Running Kubernetes Cluster Workloads
+Containerized dev environments for isolated, reproducible workflows.
 
-| Skill                                           | Associated Project                                    |
-| ----------------------------------------------- | ----------------------------------------------------- |
-| Active Directory Configuration and Troubleshooting |         <a href="https://github.com/BenjaminBurton/Active-Directory-Project/tree/main">Active Directory Lab</a> |
-| Endpoint Detection && Response | <a href="https://github.com/BenjaminBurton/EDR">EndPoint Detection & Response</a> |
-| Splunk Enterprise           | <a href="https://github.com/BenjaminBurton/Active-Directory-Project/blob/main/src/splunk-ubuntu/README.md">Splunk SIEM               |
-| Microsoft Sentinel SIEM        | <a href="https://github.com/BenjaminBurton/Azure-HoneyPot">Sentinel SIEM         |
-| Wireshark                    | <a href="#">Packet Capture PCAP                  |
-<!-- | Scripting and Automation for Threat Mitigation  | <a href="https://google.com">SOC Automation        | -->
+Quartz Blog Site
+My CLI-native blog site powered by Quartz for sharing insights and learning progress. 
 
-### LINKS TO WIRESHARK PROJECT WILL BE UPDATED SOON
+AWS Cloud DevOps Projects
+Building scalable, automated cloud infrastructures on AWS.
 
-## Tools
+---
 
-### Network
+## 📝 Blog Posts
 
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
-    <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-</div>
+I document my journey of projects Coming Soon: (Giving GitHub a Makover)
 
-### Endpoint
+- [Homelab: First Steps](#)  
+- [Arch Linux with LUKS + TPM](#)  
+- [DevContainers Hosting My Workloads](#)  
+- [Quartz Blog Setup](#)  
+- [AWS Cloud DevOps Projects](#)  
 
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
+---
 
-### SIEM
+## 💻 Skills & Focus
 
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+- Linux / Arch Linux: Full disk encryption, Pure systemd, minimalist.  
+- DevContainers: Containerized dev environments for reproducibility.  
+- AWS Cloud: Building scalable, automated infrastructure.  
+- Python: Actively learning with 100 Days of Python; planning to learn Go next.  
 
-## Certifications
+---
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+## 📫 Connect with Me
 
-## Projects
-
-- Splunk Enterprise ( SIEM )
-- Microsoft Sentinel ( SIEM )
-- End Point Detection && Response ( LimaCharlie & Sliver )
-- Active Directory Configuration & Troubleshooting
-
+- [LinkedIn](https://www.linkedin.com/in/benjaminlburton/)  
+- [Medium](https://mrburton.medium.com/)  
+- [GitLab](https://gitlab.com/benjaminlburton)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
