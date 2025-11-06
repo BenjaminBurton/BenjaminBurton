@@ -48,13 +48,13 @@ Building scalable, automated cloud infrastructures on AWS.
 
 I document my projects journey 
 
-- [Homelab: First Steps](#)
+- [Homelab: Running Production Grade Kubernetes Clusters](#)
   
-- [Arch Linux with LUKS + TPM](#)
+- [Arch Linux Workstation with LUKS + TPM](#)
   
 - [DevContainers Hosting My Workloads](#)  
 
-- [Quartz Blog Setup](#)  
+- [Quartz Blog Website](#)  
 
 - [AWS Cloud DevOps Projects](#)  
 
