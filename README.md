@@ -5,7 +5,7 @@ LAVELL BURTON
 
 <a href="https://www.linkedin.com/in/benjaminlburton/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a self-taught Cloud DevOps Engineer building a homelab and hands-on projects to master Linux, DevContainers, AWS, and Python.
+I'm a self-taught Cloud DevOps Engineer building a homelab and hands-on projects for mastery of Linux, DevContainers, AWS, and Python.
   
 I share my journey and projects here as I work towards becoming a Cloud DevOps Engineer.
 
@@ -15,7 +15,7 @@ I share my journey and projects here as I work towards becoming a Cloud DevOps E
 
 - Homelab 
 
-My self-hosted home lab for learning DevOps, security, and cloud orchestration. 
+My self-hosted home lab for learning DevOps, security, and cloud orchestration running production grade Kubernetes clusters
 
 
 
