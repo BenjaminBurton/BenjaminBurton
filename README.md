@@ -11,7 +11,7 @@ I share my journey and projects here as I work towards becoming a Cloud DevOps E
 
 ---
 
-### Things I'm working on
+### Things I'm working on (Under Construction)
 
 - Homelab 
 
@@ -43,7 +43,7 @@ Building scalable, automated cloud infrastructures on AWS.
 
 ---
 
-## 📝 Blog Posts
+## 📝 Blog Posts (Will be Available Soon)
 
 I document my journey of projects Coming Soon: (Giving GitHub a Makover)
 
