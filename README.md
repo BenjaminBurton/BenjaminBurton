@@ -11,7 +11,7 @@ I share my journey and projects here as I work towards becoming a Cloud DevOps E
 
 ---
 
-### Things I'm working on (Under Construction)
+### 🔧 Things I'm working on (Under Construction Redesigning my Github)
 
 - Homelab 
 
@@ -43,7 +43,7 @@ Building scalable, automated cloud infrastructures on AWS.
 
 ---
 
-## 📝 Blog Posts (Will be Available Soon)
+### 📝 Blog Posts (Will be Available Soon)
 
 I document my projects journey 
 
@@ -59,7 +59,7 @@ I document my projects journey
 
 ---
 
-## 💻 Skills & Focus
+### 💻 Skills & Focus
 
 - Linux / Arch Linux: Full disk encryption, Pure systemd, minimalist.  
 
@@ -71,7 +71,7 @@ I document my projects journey
 
 ---
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/benjaminlburton/)  
 
