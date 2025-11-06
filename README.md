@@ -45,7 +45,7 @@ Building scalable, automated cloud infrastructures on AWS.
 
 ## 📝 Blog Posts (Will be Available Soon)
 
-I document my journey of projects Coming Soon: (Giving GitHub a Makover)
+I document my projects journey 
 
 - [Homelab: First Steps](#)
   
