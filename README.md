@@ -11,33 +11,33 @@ I share my journey and projects here as I work towards becoming a Cloud DevOps E
 
 ---
 
-# Things I'm working on
+### Things I'm working on
 
-Homelab 
+- Homelab 
 
 My self-hosted home lab for learning DevOps, security, and cloud orchestration. 
 
 
 
-Arch Linux Installation with LUKS + TPM
+- Arch Linux Installation with LUKS + TPM
 
 Secure Arch Linux installation using full disk encryption and TPM for key storage.
 
 
 
-DevContainers Running Kubernetes Cluster Workloads
+- DevContainers Running Kubernetes Cluster Workloads
 
 Containerized dev environments for isolated, reproducible workflows.
 
 
 
-Quartz Blog Site
+- Quartz Blog Site
 
 My CLI-native blog site powered by Quartz for sharing insights and learning progress. 
 
 
 
-AWS Cloud DevOps Projects
+- AWS Cloud DevOps Projects
 
 Building scalable, automated cloud infrastructures on AWS.
 
