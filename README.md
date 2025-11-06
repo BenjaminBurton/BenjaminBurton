@@ -16,14 +16,22 @@ I share my journey and projects here as I work towards becoming a Cloud DevOps E
 Homelab 
 My self-hosted home lab for learning DevOps, security, and cloud orchestration. 
 
+---
+
 Arch Linux Installation with LUKS + TPM
 Secure Arch Linux installation using full disk encryption and TPM for key storage.
+
+---
 
 DevContainers Running Kubernetes Cluster Workloads
 Containerized dev environments for isolated, reproducible workflows.
 
+---
+
 Quartz Blog Site
 My CLI-native blog site powered by Quartz for sharing insights and learning progress. 
+
+---
 
 AWS Cloud DevOps Projects
 Building scalable, automated cloud infrastructures on AWS.
@@ -34,10 +42,14 @@ Building scalable, automated cloud infrastructures on AWS.
 
 I document my journey of projects Coming Soon: (Giving GitHub a Makover)
 
-- [Homelab: First Steps](#)  
-- [Arch Linux with LUKS + TPM](#)  
+- [Homelab: First Steps](#)
+  
+- [Arch Linux with LUKS + TPM](#)
+  
 - [DevContainers Hosting My Workloads](#)  
+
 - [Quartz Blog Setup](#)  
+
 - [AWS Cloud DevOps Projects](#)  
 
 ---
@@ -45,8 +57,11 @@ I document my journey of projects Coming Soon: (Giving GitHub a Makover)
 ## 💻 Skills & Focus
 
 - Linux / Arch Linux: Full disk encryption, Pure systemd, minimalist.  
+
 - DevContainers: Containerized dev environments for reproducibility.  
+
 - AWS Cloud: Building scalable, automated infrastructure.  
+
 - Python: Actively learning with 100 Days of Python; planning to learn Go next.  
 
 ---
@@ -54,7 +69,9 @@ I document my journey of projects Coming Soon: (Giving GitHub a Makover)
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/benjaminlburton/)  
+
 - [Medium](https://mrburton.medium.com/)  
+
 - [GitLab](https://gitlab.com/benjaminlburton)
 
 ### :hammer_and_wrench: Languages and Tools :
