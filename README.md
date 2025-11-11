@@ -46,7 +46,7 @@ Building scalable, automated cloud infrastructures on AWS.
 
 ### 📝 Blog Posts (Will be Available Soon)
 
-I document my projects journey 
+My documented projects & journey 
 
 - [Homelab: Running Production Grade Kubernetes Clusters](#)
   
