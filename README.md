@@ -7,7 +7,7 @@ LAVELL BURTON
 
 I'm a self-taught Cloud DevOps Engineer building a homelab and hands-on projects for mastery of Linux, DevContainers, AWS, and Python.
   
-I share my journey and projects here as I work towards becoming a Cloud DevOps Engineer.
+I'll share my journey and projects here as I work towards becoming a Cloud DevOps Engineer.
 
 ---
 
