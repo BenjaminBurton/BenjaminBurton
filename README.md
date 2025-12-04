@@ -11,7 +11,7 @@ I'll share my journey and projects here as I work towards becoming a Cloud DevOp
 
 ---
 
-## Things I'm working on (Under Construction Redesigning my Github) 🔧
+## Things I'm Actively working on 🔧
 
 
 ### Homelab 
