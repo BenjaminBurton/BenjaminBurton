@@ -20,9 +20,9 @@ My self-hosted home lab for learning DevOps, security, and cloud orchestration r
 
 
 
-### Arch Linux Installation with LUKS + TPM
+### Arch Linux Installation with LUKS on LVM
 
-Secure Arch Linux installation using full disk encryption and TPM for key storage.
+Secure Arch Linux installation using full disk encryption LUKS on LVM.
 
 
 
