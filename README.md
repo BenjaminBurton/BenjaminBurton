@@ -26,7 +26,7 @@ Secure Arch Linux installation using full disk encryption LUKS on LVM.
 
 
 
-### DevContainers Running Kubernetes Cluster Workloads
+### DevContainers Running Kubernetes Cluster Workloads (Actively working on multiple projects)
 
 Containerized dev environments for isolated, reproducible workflows.
 
