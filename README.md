@@ -31,7 +31,10 @@ Secure Arch Linux installation using full disk encryption LUKS on LVM.
 Containerized dev environments for isolated, reproducible workflows.
 
 DeployFlow
-https://github.com/BenjaminBurton/deployflow (Actively working on the other 4 projects)
+https://github.com/BenjaminBurton/deployflow (Project 1 of 5)
+
+TerraStack
+https://github.com/BenjaminBurton/terrastack (Project 2 of 5)
 
 
 
